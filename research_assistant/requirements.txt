@@ -13,7 +13,7 @@ langchain-text-splitters>=0.2.0
 pypdf>=4.2.0
 numpy<2.0.0
 
-# For OpenAI (PAID)
+# For OpenAI (PAID VERSION)
 openai>=1.0.0
 langchain-openai>=0.1.0
 
