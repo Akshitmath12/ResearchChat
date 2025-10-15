@@ -1,0 +1,15 @@
+# Virtual Environment
+research_env/
+venv/
+env/
+
+# Environment Variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Outputs
+outputs/*.txt
