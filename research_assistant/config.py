@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 
-LLM_PROVIDER = "ollama"  
+LLM_PROVIDER = "openai"  
 
 
 OLLAMA_MODEL = "llama2"  
